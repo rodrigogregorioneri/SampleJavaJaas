@@ -50,23 +50,6 @@
                 </configuration>
             </plugin>
             
-            <plugin>
-                <groupId>org.cloudfoundry</groupId>
-                <artifactId>cf-maven-plugin</artifactId>
-                <version>1.1.3</version>
-                <configuration>
-                    <target>https://api.cronospaas.com</target>
-                    <username>jenkins</username>
-                    <password>jenkins123</password>
-                    <org>cq</org>
-                    <space>teste</space>
-                    <appname>sample-jaas</appname>
-                    <url>sample-jaas.cronospaas.com</url>
-                    <instance>1</instance>
-                    <memory>512</memory>
-                </configuration>
-            </plugin>
-            
         </plugins>
     </build>
     <dependencies/>
