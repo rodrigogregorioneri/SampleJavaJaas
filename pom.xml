@@ -43,7 +43,7 @@
                     <appname>AplicacaoTesteIntegracao</appname>
                     <url>http://aplicacaotesteintegracao.cronospaas.com</url>
                     <instances>1</instances>
-                    <memory>512</memory>
+                    <memory>513</memory>
                 </configuration>
             </plugin>
             <plugin>
