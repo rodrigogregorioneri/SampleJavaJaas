@@ -16,8 +16,8 @@ public class TechneLoginModule implements LoginModule {
 	private RolePrincipal rolePrincipal;
 	private String login;
 	private List<String> userGroups;
-	private String USERNAME = "${username}";
-	private String PASSWORD = "${password}";
+	private String USERNAME = "techne";
+	private String PASSWORD = "techne";
 
 	@Override
 	public void initialize(Subject subject, CallbackHandler callbackHandler,
