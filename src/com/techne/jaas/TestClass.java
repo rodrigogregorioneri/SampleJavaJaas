@@ -1,5 +1,8 @@
 package com.techne.jaas;
 
+/**
+ *  teste de feature
+ * */
 public class TestClass {
   
   
