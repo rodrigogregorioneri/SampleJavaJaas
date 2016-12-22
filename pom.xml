@@ -75,6 +75,6 @@
         <project.cronospass.resource mimetype="folder/servercontext">config</project.cronospass.resource>
         <project.cronospass.resource mimetype="folder/src">src</project.cronospass.resource>
         <project.cronospass.resource mimetype="folder/web">webapp</project.cronospass.resource>
-        <project.cronospass.resource mimetype="folder/libs">lib_2_3</project.cronospass.resource>
+        <project.cronospass.resource mimetype="folder/libs">lib_2_3_4</project.cronospass.resource>
     </properties>
 </project>
