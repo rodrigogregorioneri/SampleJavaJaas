@@ -1,7 +1,7 @@
 package com.techne.jaas;
 
 /**
- *  nova alteração
+ *  test pull
  * */
 public class TestClass {
   
